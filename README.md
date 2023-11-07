@@ -1,3 +1,7 @@
+Video: https://www.youtube.com/watch?v=8iiNr10hcHM
+
+Part 1: https://github.com/thaolt/hellojava
+
 # Learning JAVA
 
 Hello
