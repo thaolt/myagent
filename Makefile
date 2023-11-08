@@ -25,6 +25,6 @@ jar: build
 
 clean:
 	rm -rf $(OUT_DIR)
-	rm $(JARFILENAME)
+	rm -f $(JARFILENAME)
 
 .PHONY: demo build clean
